@@ -1,0 +1,37 @@
+.type-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+    gap: rem(30px) rem(30px);
+    padding: rem(30px) 0 rem(30px);
+    // text-align: center;
+
+
+    .type-preview {
+        position: relative;
+        // text-align: center;
+        
+        .preview-title {
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+            text-align: center;
+            padding: rem(10px);
+            font-size: rem(30px);
+            letter-spacing: rem(2px);
+            color: $clr5;
+
+
+        }
+
+        img {
+            aspect-ratio: 1/1;
+            // min-width: 180px;
+        }
+    }
+}
+
+// @media (min-width: 640px) {
+//     .type-list{
+//         grid-template-columns: repeat(auto-fill, minmax(275px, 1fr));
+//     }
+// }

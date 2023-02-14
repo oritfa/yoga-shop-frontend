@@ -1,0 +1,276 @@
+[
+    {
+		"_id": "622f337a75c7d36e498aaaf1551",
+		"name": "מזרן יוגה מקצועי מגומי טבעי, אקולוגי ומונע החלקה - דגם שמש",
+		"type": "yoga-mats",
+		"labels": [
+
+		],
+		"imgs": [
+			"yoga-mats/yoga-mat1.jpg"
+		],
+		"price": 360,
+		"summary": "מזרן יוגה מקצועי מגומי טבעי, אקולוגי ומונע החלקה - דגם שמש"
+	},
+    {
+		"_id": "622f337a75c7d36e498aaaf1552",
+		"name": "מזרן יוגה מקצועי מגומי טבעי, אקולוגי ומונע החלקה - דגם חלק",
+		"type": "yoga-mats",
+		"labels": [
+
+		],
+		"imgs": [
+			"yoga-mats/yoga-mat2.jpg"
+		],
+		"price": 360,
+		"summary": "מזרן יוגה מקצועי מגומי טבעי, אקולוגי ומונע החלקה - דגם חלק"
+	},
+    {
+		"_id": "622f337a75c7d36e498aaaf1553",
+		"name": "מזרן יוגה מקצועי מגומי טבעי, אקולוגי ומונע החלקה - דגם קרי",
+		"type": "yoga-mats",
+		"labels": [
+
+		],
+		"imgs": [
+			"yoga-mats/yoga-mat3.jpg"
+		],
+		"price": 330,
+		"summary": "מזרן יוגה מקצועי מגומי טבעי, אקולוגי ומונע החלקה - דגם קרי"
+	},
+    {
+		"_id": "622f337a75c7d36e498aaaf1553",
+		"name": "מזרן יוגה מקצועי מגומי טבעי, אקולוגי ומונע החלקה - דגם יוגי",
+		"type": "yoga-mats",
+		"labels": [
+
+		],
+		"imgs": [
+			"yoga-mats/yoga-mat4.jpg"
+		],
+		"price": 400,
+		"summary": "מזרן יוגה מקצועי מגומי טבעי, אקולוגי ומונע החלקה - דגם יוגי"
+	},
+    {
+		"_id": "622f337a75c7d36e498aaaf1554",
+		"name": "רצועה איכותית לנשיאת מזרן",
+		"type": "yoga-accessories",
+		"labels": [
+
+		],
+		"imgs": [
+			"yoga-accessories/yoga-bag1.jpg"
+		],
+		"price": 75,
+		"summary": "רצועה איכותית לנשיאת מזרן"
+	},
+    {
+		"_id": "622f337a75c7d36e498aaaf1555",
+		"name": "קוביית יוגה איכותית מעץ",
+		"type": "yoga-accessories",
+		"labels": [
+
+		],
+		"imgs": [
+			"yoga-accessories/yoga-block2.jpg"
+		],
+		"price": 65,
+		"summary": "קוביית יוגה איכותית מעץ"
+	},
+    {
+		"_id": "622f337a75c7d36e498aaaf1556",
+		"name": "קוביית יוגה איכותית משעם",
+		"type": "yoga-accessories",
+		"labels": [
+
+		],
+		"imgs": [
+			"yoga-accessories/yoga-block3.jpg"
+		],
+		"price": 65,
+		"summary": "קוביית יוגה איכותית משעם"
+	},
+    {
+		"_id": "622f337a75c7d36e498aaaf1557",
+		"name": "כרית מדיטציה מקש איכותי",
+		"type": "yoga-accessories",
+		"labels": [
+
+		],
+		"imgs": [
+			"yoga-accessories/bolster.jpg"
+		],
+		"price": 160,
+		"summary": "כרית מדיטציה מקש איכותי"
+	},
+    {
+		"_id": "622f337a75c7d36e498aaaf1558",
+		"name": "קערה טיבטית איכותית",
+		"type": "yoga-accessories",
+		"labels": [
+
+		],
+		"imgs": [
+			"yoga-accessories/bowl.jpg"
+		],
+		"price": 560,
+		"summary": "קערה טיבטית איכותית"
+	},
+    {
+		"_id": "622f337a75c7d36e498aaaf1559",
+		"name": "קטורת",
+		"type": "yoga-accessories",
+		"labels": [
+
+		],
+		"imgs": [
+			"yoga-accessories/incense.jpg"
+		],
+		"price": 560,
+		"summary": "קטורת"
+	},
+    {
+		"_id": "622f337a75c7d36e498aaaf15510",
+		"name": "נרות למדיטציה",
+		"type": "yoga-accessories",
+		"labels": [
+
+		],
+		"imgs": [
+			"yoga-accessories/candles.jpg"
+		],
+		"price": 560,
+		"summary": "נרות למדיטציה"
+	},
+    {
+		"_id": "622f337a75c7d36e498aaaf15511",
+		"name": "טייץ יוגה מבד איכותי",
+		"type": "yoga-clothings",
+		"labels": [
+
+		],
+		"imgs": [
+			"yoga-clothings/yoga-leggings1.jpg"
+		],
+		"price": 250,
+		"summary": "טייץ יוגה מבד איכותי"
+	},
+    {
+		"_id": "622f337a75c7d36e498aaaf15512",
+		"name": "טייץ יוגה מבד איכותי",
+		"type": "yoga-clothings",
+		"labels": [
+
+		],
+		"imgs": [
+			"yoga-clothings/yoga-leggings2.jpg"
+		],
+		"price": 250,
+		"summary": "טייץ יוגה מבד איכותי"
+	},
+    {
+		"_id": "622f337a75c7d36e498aaaf15513",
+		"name": "טייץ יוגה מבד איכותי",
+		"type": "yoga-clothings",
+		"labels": [
+
+		],
+		"imgs": [
+			"yoga-clothings/yoga-leggings3.jpg"
+		],
+		"price": 250,
+		"summary": "טייץ יוגה מבד איכותי"
+	},
+    {
+		"_id": "622f337a75c7d36e498aaaf15514",
+		"name": "טייץ יוגה מבד איכותי",
+		"type": "yoga-clothings",
+		"labels": [
+
+		],
+		"imgs": [
+			"yoga-clothings/yoga-leggings4.jpg"
+		],
+		"price": 250,
+		"summary": "טייץ יוגה מבד איכותי"
+	},
+    {
+		"_id": "622f337a75c7d36e498aaaf15515",
+		"name": "טייץ יוגה מבד איכותי",
+		"type": "yoga-clothings",
+		"labels": [
+
+		],
+		"imgs": [
+			"yoga-clothings/yoga-leggings5.jpg"
+		],
+		"price": 250,
+		"summary": "טייץ יוגה מבד איכותי"
+	},
+    {
+		"_id": "622f337a75c7d36e498aaaf15516",
+		"name": "טופ יוגה מבד איכותי",
+		"type": "yoga-clothings",
+		"labels": [
+
+		],
+		"imgs": [
+			"yoga-clothings/yoga-top1.jpg"
+		],
+		"price": 180,
+		"summary": "טופ יוגה מבד איכותי"
+	},
+    {
+		"_id": "622f337a75c7d36e498aaaf15517",
+		"name": "טופ יוגה מבד איכותי",
+		"type": "yoga-clothings",
+		"labels": [
+
+		],
+		"imgs": [
+			"yoga-clothings/yoga-top2.jpg"
+		],
+		"price": 180,
+		"summary": "טופ יוגה מבד איכותי"
+	},
+    {
+		"_id": "622f337a75c7d36e498aaaf15518",
+		"name": "טופ יוגה מבד איכותי",
+		"type": "yoga-clothings",
+		"labels": [
+
+		],
+		"imgs": [
+			"yoga-clothings/yoga-top3.jpg"
+		],
+		"price": 180,
+		"summary": "טופ יוגה מבד איכותי"
+	},
+    {
+		"_id": "622f337a75c7d36e498aaaf15519",
+		"name": "טופ יוגה מבד איכותי",
+		"type": "yoga-clothings",
+		"labels": [
+
+		],
+		"imgs": [
+			"yoga-clothings/yoga-top4.jpg"
+		],
+		"price": 180,
+		"summary": "טופ יוגה מבד איכותי"
+	},
+    {
+		"_id": "622f337a75c7d36e498aaaf155110",
+		"name": "טופ יוגה מבד איכותי",
+		"type": "yoga-clothings",
+		"labels": [
+
+		],
+		"imgs": [
+			"yoga-clothings/yoga-top5.jpg"
+		],
+		"price": 180,
+		"summary": "טופ יוגה מבד איכותי"
+	}
+
+]

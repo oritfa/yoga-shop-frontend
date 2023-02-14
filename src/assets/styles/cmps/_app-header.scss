@@ -1,0 +1,38 @@
+.header-top {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 45px;
+    background-color: $clr2;
+    color: $clr5;
+}
+
+.logo {
+    font-family: MarckScript-Regular;
+    // font-family: DancingScript-Regular;
+    font-size: rem(40px);
+    font-weight: 300;
+    color: $clr4;
+}
+
+.nav-container {
+    display: flex;
+    align-items: center;
+    height: 80px;
+    // background-color: $clr3;
+    >* {
+        flex: 1;
+    }
+    nav {
+        flex: 2;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .cart {
+        display: flex;
+        justify-content: flex-end;
+
+    }
+
+}

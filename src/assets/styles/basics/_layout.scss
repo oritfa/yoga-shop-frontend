@@ -1,0 +1,14 @@
+
+.layout {
+    display: grid;
+    grid-template-columns: 90px 1fr 90px;
+
+    >* {
+        grid-column: 2;
+    }
+
+    >*.full {
+        grid-column: 1 / -1;
+    }
+}
+

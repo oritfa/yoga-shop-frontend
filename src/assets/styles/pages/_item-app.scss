@@ -1,0 +1,24 @@
+.item-app {
+    .hero {
+        height: rem(125px);
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        .title {
+            position: absolute;
+            font-size: rem(20px);
+            font-weight: bold;
+            letter-spacing: rem(2px);
+            color: $clr5;
+        }
+    }
+
+    .title {
+        font-size: rem(20px);
+        letter-spacing: rem(2px);
+        text-align: center;
+        padding: rem(50px);
+    }
+}
